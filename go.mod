@@ -11,7 +11,7 @@ require (
 	github.com/gorilla/csrf v1.7.0
 	github.com/gorilla/feeds v1.1.1
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/schema v1.2.0
+	github.com/gorilla/schema v1.4.1
 	github.com/gorilla/sessions v1.2.0
 	github.com/guregu/null v3.5.0+incompatible
 	github.com/hashicorp/go-multierror v1.1.1
@@ -21,7 +21,7 @@ require (
 	github.com/lunixbochs/vtclean v1.0.0 // indirect
 	github.com/manifoldco/promptui v0.8.0
 	github.com/mattn/go-sqlite3 v1.14.6
-	github.com/microcosm-cc/bluemonday v1.0.5
+	github.com/microcosm-cc/bluemonday v1.0.26
 	github.com/mitchellh/go-wordwrap v1.0.1
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be // indirect
@@ -41,8 +41,8 @@ require (
 	github.com/writeas/slug v1.2.0
 	github.com/writeas/web-core v1.3.1-0.20210330164422-95a3a717ed8f
 	github.com/writefreely/go-nodeinfo v1.2.0
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
 	gopkg.in/ini.v1 v1.62.0
 )
 
